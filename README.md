@@ -189,7 +189,7 @@ Microsoft Power BI or similar BI software
 SQL / Excel for data preparation
 DAX measures for KPI calculations
 
-DashBoard Screen : 
+DashBoard Screen : (https://github.com/neerajkc18-rgb/Pizza-Sales/blob/main/Best%20worst%20pizza.png)
 
 
 
